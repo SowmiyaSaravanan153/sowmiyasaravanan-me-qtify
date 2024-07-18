@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <Navbar />
       {/* Other components and content of your app */}
+      <Hero />
     </div>
   );
 }
